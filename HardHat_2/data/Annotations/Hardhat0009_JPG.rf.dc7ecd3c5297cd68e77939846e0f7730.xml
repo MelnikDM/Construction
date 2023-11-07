@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Hardhat0009_JPG.rf.dc7ecd3c5297cd68e77939846e0f7730.jpg</filename>
+	<path>Hardhat0009_JPG.rf.dc7ecd3c5297cd68e77939846e0f7730.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>263</xmin>
+			<xmax>320</xmax>
+			<ymin>300</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

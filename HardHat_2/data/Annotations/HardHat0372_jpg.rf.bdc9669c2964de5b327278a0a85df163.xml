@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>HardHat0372_jpg.rf.bdc9669c2964de5b327278a0a85df163.jpg</filename>
+	<path>HardHat0372_jpg.rf.bdc9669c2964de5b327278a0a85df163.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoHelmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>494</xmin>
+			<xmax>599</xmax>
+			<ymin>107</ymin>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
