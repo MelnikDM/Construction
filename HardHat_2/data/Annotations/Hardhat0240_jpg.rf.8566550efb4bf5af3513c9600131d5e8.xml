@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>Hardhat0240_jpg.rf.8566550efb4bf5af3513c9600131d5e8.jpg</filename>
+	<path>Hardhat0240_jpg.rf.8566550efb4bf5af3513c9600131d5e8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
